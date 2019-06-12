@@ -1,0 +1,56 @@
+.clock{
+    position: relative;
+    top: 100px;
+    left:500px;
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.num12{
+    font-family: monospace;
+    font-size: 45px;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 220px;
+    bottom: 50px;
+    
+}
+
+.num1{
+    font-family: monospace;
+    font-size: 45px;
+    color: black;
+    position: absolute;
+    top: 50px;
+    left: 370px;
+}
+
+.num2{
+    font-family: monospace;
+    font-size: 45px;
+    color: black;
+    position: absolute;
+    top: 150px;
+    left: 440px;
+}
+
+.num3{
+    font-family: monospace;
+    font-size: 45px;
+    color: black;
+    position: absolute;
+    top: 270px;
+    left: 440px;
+}
+
+.num4{
+    font-family: monospace;
+    font-size: 45px;
+    color: black;
+    position: absolute;
+    top: 370px;
+    left: 380px;
+}
